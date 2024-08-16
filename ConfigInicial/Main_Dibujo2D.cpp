@@ -3,7 +3,7 @@
 /*
 Practica 1 Dibujo de primitivas en 2D
 Erandi Pérez
-Fecha de entrega
+16/08/2024.
 
 */ 
 
